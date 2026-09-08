@@ -1,0 +1,23 @@
+name: Update Space Shooter Game
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Executa diariamente à meia-noite UTC
+  workflow_dispatch:     # Permite executar manualmente a qualquer momento
+
+permissions:
+  contents: write
+
+jobs:
+  update-game:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2 # Necessário para o versionamento do gif
+
+      - uses: czl9707/gh-space-shooter@v2
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          output-path: 'game.gif'
+          strategy: 'random' # Estratégias disponíveis: 'random', 'row' ou 'column'
