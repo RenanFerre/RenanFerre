@@ -8,13 +8,13 @@
   </p>
 
   <!-- Badges de Redes Sociais & Contato (Substitua pelos seus links) -->
-  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/renan-ferreira-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:SEU_EMAIL@exemplo.com">
+  <a href="mailto:renanferreira9691@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/SEU_USUARIO">
+  <a href="https://github.com/RenanFerre">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
@@ -68,12 +68,12 @@
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=false" alt="Linguagens Mais Utilizadas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanFerre&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanFerre&layout=compact&theme=tokyonight&hide_border=false" alt="Linguagens Mais Utilizadas" />
 
   <br><br>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=false" alt="Sequência de Contribuições" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RenanFerre&theme=tokyonight&hide_border=false" alt="Sequência de Contribuições" />
 
 </div>
 
